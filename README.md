@@ -1,1 +1,3 @@
 # praticadevops
+
+praticando sem ajuda
